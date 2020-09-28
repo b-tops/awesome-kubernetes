@@ -1,0 +1,6 @@
+= Interesting policy tools and docs
+
+== Tools
+
+* https://github.com/open-policy-agent/conftest[conftest]: Write tests against structured configuration data using the Open Policy Agent Rego query language
+
