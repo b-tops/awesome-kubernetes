@@ -1,5 +1,6 @@
 = Interesting security tools
 
+* https://github.com/aquasecurity/trivy[trivy]: Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts, Suitable for CI.
 * https://github.com/aquasecurity/kube-bench[kube-bench]: checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark
 * https://github.com/aquasecurity/starboard[starboard]: Kubernetes-native security tool kit
 
