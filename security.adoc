@@ -4,4 +4,5 @@
 * https://github.com/aquasecurity/kube-bench[kube-bench]: Checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark
 * https://github.com/aquasecurity/kube-hunter[kube-hunter]: Hunt for security weaknesses in Kubernetes clusters
 * https://github.com/aquasecurity/starboard[starboard]: Kubernetes-native security tool kit
+* https://github.com/jetstack/version-checker?utm_sq=gi92u40bhd[version-checker]: a Kubernetes utility for observing the current versions of images running in the cluster, as well as the latest available upstream. These checks get exposed as Prometheus metrics to be viewed on a dashboard, or soft alert cluster operators
 
