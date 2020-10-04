@@ -1,0 +1,10 @@
+= Using multipass
+
+== Prepare a 3-node cluster
+
+[source,bash]
+----
+multipass launch --name master --cpus 1 --mem 1024M --disk 10G
+multipass launch --name worker-1 --cpus 2 --mem 1024M --disk 10G
+multipass launch --name worker-2 --cpus 2 --mem 1024M --disk 10G
+----
